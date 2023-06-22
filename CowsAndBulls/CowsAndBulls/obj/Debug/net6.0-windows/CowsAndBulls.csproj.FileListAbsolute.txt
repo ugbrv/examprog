@@ -1,0 +1,34 @@
+C:\Papka\CowsAndBulls\CowsAndBulls\bin\Debug\net6.0-windows\CowsAndBulls.exe
+C:\Papka\CowsAndBulls\CowsAndBulls\bin\Debug\net6.0-windows\CowsAndBulls.deps.json
+C:\Papka\CowsAndBulls\CowsAndBulls\bin\Debug\net6.0-windows\CowsAndBulls.runtimeconfig.json
+C:\Papka\CowsAndBulls\CowsAndBulls\bin\Debug\net6.0-windows\CowsAndBulls.dll
+C:\Papka\CowsAndBulls\CowsAndBulls\bin\Debug\net6.0-windows\CowsAndBulls.pdb
+C:\Papka\CowsAndBulls\CowsAndBulls\obj\Debug\net6.0-windows\CowsAndBulls.csproj.AssemblyReference.cache
+C:\Papka\CowsAndBulls\CowsAndBulls\obj\Debug\net6.0-windows\CowsAndBulls.Form1.resources
+C:\Papka\CowsAndBulls\CowsAndBulls\obj\Debug\net6.0-windows\CowsAndBulls.csproj.GenerateResource.cache
+C:\Papka\CowsAndBulls\CowsAndBulls\obj\Debug\net6.0-windows\CowsAndBulls.GeneratedMSBuildEditorConfig.editorconfig
+C:\Papka\CowsAndBulls\CowsAndBulls\obj\Debug\net6.0-windows\CowsAndBulls.AssemblyInfoInputs.cache
+C:\Papka\CowsAndBulls\CowsAndBulls\obj\Debug\net6.0-windows\CowsAndBulls.AssemblyInfo.cs
+C:\Papka\CowsAndBulls\CowsAndBulls\obj\Debug\net6.0-windows\CowsAndBulls.csproj.CoreCompileInputs.cache
+C:\Papka\CowsAndBulls\CowsAndBulls\obj\Debug\net6.0-windows\CowsAndBulls.dll
+C:\Papka\CowsAndBulls\CowsAndBulls\obj\Debug\net6.0-windows\refint\CowsAndBulls.dll
+C:\Papka\CowsAndBulls\CowsAndBulls\obj\Debug\net6.0-windows\CowsAndBulls.pdb
+C:\Papka\CowsAndBulls\CowsAndBulls\obj\Debug\net6.0-windows\CowsAndBulls.genruntimeconfig.cache
+C:\Papka\CowsAndBulls\CowsAndBulls\obj\Debug\net6.0-windows\ref\CowsAndBulls.dll
+C:\Users\uragu\OneDrive - УрФУ\Рабочий стол\CowsAndBulls\CowsAndBulls\bin\Debug\net6.0-windows\CowsAndBulls.exe
+C:\Users\uragu\OneDrive - УрФУ\Рабочий стол\CowsAndBulls\CowsAndBulls\bin\Debug\net6.0-windows\CowsAndBulls.deps.json
+C:\Users\uragu\OneDrive - УрФУ\Рабочий стол\CowsAndBulls\CowsAndBulls\bin\Debug\net6.0-windows\CowsAndBulls.runtimeconfig.json
+C:\Users\uragu\OneDrive - УрФУ\Рабочий стол\CowsAndBulls\CowsAndBulls\bin\Debug\net6.0-windows\CowsAndBulls.dll
+C:\Users\uragu\OneDrive - УрФУ\Рабочий стол\CowsAndBulls\CowsAndBulls\bin\Debug\net6.0-windows\CowsAndBulls.pdb
+C:\Users\uragu\OneDrive - УрФУ\Рабочий стол\CowsAndBulls\CowsAndBulls\obj\Debug\net6.0-windows\CowsAndBulls.csproj.AssemblyReference.cache
+C:\Users\uragu\OneDrive - УрФУ\Рабочий стол\CowsAndBulls\CowsAndBulls\obj\Debug\net6.0-windows\CowsAndBulls.Form1.resources
+C:\Users\uragu\OneDrive - УрФУ\Рабочий стол\CowsAndBulls\CowsAndBulls\obj\Debug\net6.0-windows\CowsAndBulls.csproj.GenerateResource.cache
+C:\Users\uragu\OneDrive - УрФУ\Рабочий стол\CowsAndBulls\CowsAndBulls\obj\Debug\net6.0-windows\CowsAndBulls.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uragu\OneDrive - УрФУ\Рабочий стол\CowsAndBulls\CowsAndBulls\obj\Debug\net6.0-windows\CowsAndBulls.AssemblyInfoInputs.cache
+C:\Users\uragu\OneDrive - УрФУ\Рабочий стол\CowsAndBulls\CowsAndBulls\obj\Debug\net6.0-windows\CowsAndBulls.AssemblyInfo.cs
+C:\Users\uragu\OneDrive - УрФУ\Рабочий стол\CowsAndBulls\CowsAndBulls\obj\Debug\net6.0-windows\CowsAndBulls.csproj.CoreCompileInputs.cache
+C:\Users\uragu\OneDrive - УрФУ\Рабочий стол\CowsAndBulls\CowsAndBulls\obj\Debug\net6.0-windows\CowsAndBulls.dll
+C:\Users\uragu\OneDrive - УрФУ\Рабочий стол\CowsAndBulls\CowsAndBulls\obj\Debug\net6.0-windows\refint\CowsAndBulls.dll
+C:\Users\uragu\OneDrive - УрФУ\Рабочий стол\CowsAndBulls\CowsAndBulls\obj\Debug\net6.0-windows\CowsAndBulls.pdb
+C:\Users\uragu\OneDrive - УрФУ\Рабочий стол\CowsAndBulls\CowsAndBulls\obj\Debug\net6.0-windows\CowsAndBulls.genruntimeconfig.cache
+C:\Users\uragu\OneDrive - УрФУ\Рабочий стол\CowsAndBulls\CowsAndBulls\obj\Debug\net6.0-windows\ref\CowsAndBulls.dll
