@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\uragu\\OneDrive - УрФУ\\Рабочий стол\\CowsAndBulls\\CowsAndBulls\\CowsAndBulls.csproj": {}
+    "C:\\Users\\uragu\\Source\\Repos\\examprog\\CowsAndBulls\\CowsAndBulls\\CowsAndBulls.csproj": {}
   },
   "projects": {
-    "C:\\Users\\uragu\\OneDrive - УрФУ\\Рабочий стол\\CowsAndBulls\\CowsAndBulls\\CowsAndBulls.csproj": {
+    "C:\\Users\\uragu\\Source\\Repos\\examprog\\CowsAndBulls\\CowsAndBulls\\CowsAndBulls.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\uragu\\OneDrive - УрФУ\\Рабочий стол\\CowsAndBulls\\CowsAndBulls\\CowsAndBulls.csproj",
+        "projectUniqueName": "C:\\Users\\uragu\\Source\\Repos\\examprog\\CowsAndBulls\\CowsAndBulls\\CowsAndBulls.csproj",
         "projectName": "CowsAndBulls",
-        "projectPath": "C:\\Users\\uragu\\OneDrive - УрФУ\\Рабочий стол\\CowsAndBulls\\CowsAndBulls\\CowsAndBulls.csproj",
+        "projectPath": "C:\\Users\\uragu\\Source\\Repos\\examprog\\CowsAndBulls\\CowsAndBulls\\CowsAndBulls.csproj",
         "packagesPath": "C:\\Users\\uragu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\uragu\\OneDrive - УрФУ\\Рабочий стол\\CowsAndBulls\\CowsAndBulls\\obj\\",
+        "outputPath": "C:\\Users\\uragu\\Source\\Repos\\examprog\\CowsAndBulls\\CowsAndBulls\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\uragu\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -32,3 +32,20 @@ C:\Users\uragu\OneDrive - УрФУ\Рабочий стол\CowsAndBulls\CowsAndB
 C:\Users\uragu\OneDrive - УрФУ\Рабочий стол\CowsAndBulls\CowsAndBulls\obj\Debug\net6.0-windows\CowsAndBulls.pdb
 C:\Users\uragu\OneDrive - УрФУ\Рабочий стол\CowsAndBulls\CowsAndBulls\obj\Debug\net6.0-windows\CowsAndBulls.genruntimeconfig.cache
 C:\Users\uragu\OneDrive - УрФУ\Рабочий стол\CowsAndBulls\CowsAndBulls\obj\Debug\net6.0-windows\ref\CowsAndBulls.dll
+C:\Users\uragu\Source\Repos\examprog\CowsAndBulls\CowsAndBulls\bin\Debug\net6.0-windows\CowsAndBulls.exe
+C:\Users\uragu\Source\Repos\examprog\CowsAndBulls\CowsAndBulls\bin\Debug\net6.0-windows\CowsAndBulls.deps.json
+C:\Users\uragu\Source\Repos\examprog\CowsAndBulls\CowsAndBulls\bin\Debug\net6.0-windows\CowsAndBulls.runtimeconfig.json
+C:\Users\uragu\Source\Repos\examprog\CowsAndBulls\CowsAndBulls\bin\Debug\net6.0-windows\CowsAndBulls.dll
+C:\Users\uragu\Source\Repos\examprog\CowsAndBulls\CowsAndBulls\bin\Debug\net6.0-windows\CowsAndBulls.pdb
+C:\Users\uragu\Source\Repos\examprog\CowsAndBulls\CowsAndBulls\obj\Debug\net6.0-windows\CowsAndBulls.csproj.AssemblyReference.cache
+C:\Users\uragu\Source\Repos\examprog\CowsAndBulls\CowsAndBulls\obj\Debug\net6.0-windows\CowsAndBulls.Form1.resources
+C:\Users\uragu\Source\Repos\examprog\CowsAndBulls\CowsAndBulls\obj\Debug\net6.0-windows\CowsAndBulls.csproj.GenerateResource.cache
+C:\Users\uragu\Source\Repos\examprog\CowsAndBulls\CowsAndBulls\obj\Debug\net6.0-windows\CowsAndBulls.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uragu\Source\Repos\examprog\CowsAndBulls\CowsAndBulls\obj\Debug\net6.0-windows\CowsAndBulls.AssemblyInfoInputs.cache
+C:\Users\uragu\Source\Repos\examprog\CowsAndBulls\CowsAndBulls\obj\Debug\net6.0-windows\CowsAndBulls.AssemblyInfo.cs
+C:\Users\uragu\Source\Repos\examprog\CowsAndBulls\CowsAndBulls\obj\Debug\net6.0-windows\CowsAndBulls.csproj.CoreCompileInputs.cache
+C:\Users\uragu\Source\Repos\examprog\CowsAndBulls\CowsAndBulls\obj\Debug\net6.0-windows\CowsAndBulls.dll
+C:\Users\uragu\Source\Repos\examprog\CowsAndBulls\CowsAndBulls\obj\Debug\net6.0-windows\refint\CowsAndBulls.dll
+C:\Users\uragu\Source\Repos\examprog\CowsAndBulls\CowsAndBulls\obj\Debug\net6.0-windows\CowsAndBulls.pdb
+C:\Users\uragu\Source\Repos\examprog\CowsAndBulls\CowsAndBulls\obj\Debug\net6.0-windows\CowsAndBulls.genruntimeconfig.cache
+C:\Users\uragu\Source\Repos\examprog\CowsAndBulls\CowsAndBulls\obj\Debug\net6.0-windows\ref\CowsAndBulls.dll
